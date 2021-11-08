@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #third party app
+    'rest_framework',
 
     #myapps
     'apiTodo',
